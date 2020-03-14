@@ -136,7 +136,7 @@
   input:focus~label,
   input:valid~label {
     font-size: 20px;
-    top: -24px;
+    top: -34px;
     color: #00dd22;
   }
   #name{
